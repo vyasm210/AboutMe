@@ -1,0 +1,176 @@
+* {
+
+	margin-left: 2%;
+	margin-right: 2%;
+
+}
+
+
+body{
+	
+	background-color: #F0E68C
+}
+
+h1{
+
+	text-align: center;
+}
+
+ul.nav_ui {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 20;
+    overflow: hidden;
+    background-color: #696969;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    border: 2px solid black;
+    font-size: 22px;
+    width: 312px;
+ }
+ 
+ li a:hover:not(.active) { 
+
+ 	background-color: #ddd
+ }
+
+.active{
+	background-color: black;
+}
+
+h4.u {
+
+	text-decoration: underline;
+}
+
+.italic{
+
+	font-style: italic;
+}
+#ftype {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	text-decoration: underline;
+
+
+}
+
+#left {
+
+	text-align:left;
+}
+
+
+
+.med {
+
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	right: 50%;
+	bottom: 30%;
+}
+
+.link {
+
+	position: absolute;
+	bottom: 15%;
+	right: 60%;
+	padding: 20px;
+	width:200px;
+	height:50px;
+
+}
+
+.twitter {
+
+	position: absolute;
+	top: 95%;
+	right: 50%;
+	padding: 20px;
+	width:200px;
+	height:50px;
+
+}
+
+.section {
+
+	float: left;
+
+}
+
+.section2 form {
+
+	float: right;
+	position: absolute;
+	right: 10%;
+	top: 40%;
+	background-color: #8CCDF0;
+	
+}
+
+.mepic {
+
+	position: absolute;
+	top: 30%;
+	right: 35%;
+	padding: 0px;
+}
+
+.tesco {
+
+	position: absolute;
+	top: 50%;
+	right: 65%;
+}
+
+.mc {
+
+	position: absolute;
+	top: 90%;
+	right: 75%;
+	width: 120px;
+	height: 120px;
+}
+
+
+.work {
+
+	float: left;
+}
+
+.hobbies {
+
+	float: right;
+}
+
+.footy {
+
+	position: absolute;
+	top: 80%;
+	right: 15%;
+	width: 180px;
+	height: 180px;
+}
+
+.fn {
+	
+	list-style-type: none;
+	display: block;
+    color: white;
+    text-align: center;
+
+}
